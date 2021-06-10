@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pythonex2", "Pythonex2\Pythonex2.pyproj", "{9C49AE9D-DACC-44F2-8CFC-22A51821D108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C49AE9D-DACC-44F2-8CFC-22A51821D108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C49AE9D-DACC-44F2-8CFC-22A51821D108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6BA8983-5808-43BD-8893-1D80953710E7}
+	EndGlobalSection
+EndGlobal
